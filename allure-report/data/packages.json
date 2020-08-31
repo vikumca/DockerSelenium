@@ -1,0 +1,41 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.JavaSelenium.TestFactory.tests",
+    "children" : [ {
+      "name" : "LoginTest",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "33d8dc508504f530",
+        "parentUid" : "eecc0d0aec7dbcc19f042042320d8659",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579513614128,
+          "stop" : 1579513622430,
+          "duration" : 8302
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eecc0d0aec7dbcc19f042042320d8659"
+    }, {
+      "name" : "DropDownRadioCheckBoxesTest",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "22f4b92a34e8c395",
+        "parentUid" : "5b047637af1e24f446ffec3345309e0e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579513643664,
+          "stop" : 1579513655954,
+          "duration" : 12290
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5b047637af1e24f446ffec3345309e0e"
+    } ],
+    "uid" : "com.JavaSelenium.TestFactory.tests"
+  } ]
+}

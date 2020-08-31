@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+    <test name="Test Factory">
+        <classes>
+            <class name="com.JavaSelenium.TestFactory.tests.LoginTest"/>
+            <class name="com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest"/>
+            <!--<class name="com.JavaSelenium.TestFactory.runner.TestNGCukesRunner"/>-->
+
+        </classes>
+    </test>
+
+    <!--<test name="Test Factory">-->
+        <!--<classes>-->
+            <!--<class name="com.JavaSelenium.TestFactory.tests.LoginTest"/>-->
+            <!--<class name="com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest"/>-->
+            <!--&lt;!&ndash;<class name="com.JavaSelenium.TestFactory.runner.TestNGCukesRunner"/>&ndash;&gt;-->
+
+        <!--</classes>-->
+    <!--</test>-->
+</suite>

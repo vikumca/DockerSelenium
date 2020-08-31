@@ -1,0 +1,46 @@
+2020-06-16 14:51:28,316  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-06-16 14:51:28,510  INFO root [main] - Reading the Configuration file
+2020-06-16 14:51:29,247  INFO root [main] - Completed the reading of the Configuration file
+2020-06-16 14:51:29,870  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-06-16 14:51:38,559  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-06-16 14:51:38,655  INFO root [main] - Started Chrome Browser successfully.
+2020-06-16 14:51:39,780  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-06-16 14:51:39,780  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-06-16 14:51:39,781  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-06-16 14:51:50,182  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-06-16 14:51:52,855  INFO root [main] - Page loaded successfully
+2020-06-16 14:51:58,114 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id='dropdown-checkboxes-radiobuttons']/div/div[1]/h1
+2020-06-16 14:52:04,137 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id='dropdown-checkboxes-radiobuttons']/div/div[1]/h1
+2020-06-16 14:52:10,171 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id='dropdown-checkboxes-radiobuttons']/div/div[1]/h1
+2020-06-16 14:52:21,894  INFO root [main] - Element element: lnkDropDownRadioCheckBox loaded
+2020-06-16 14:52:22,536  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.HomePage.lnkDropDownRadioCheckBox'
+2020-06-16 14:52:22,536  INFO root [main] - HyperLink element: lnkDropDownRadioCheckBox clicked
+2020-06-16 14:52:22,536  INFO root [main] - Clicked on Drop Down, Radio and Check boxes Link
+2020-06-16 14:52:22,771  INFO root [main] - Page loaded successfully
+2020-06-16 14:52:24,279  INFO root [main] - Page loaded successfully
+2020-06-16 14:52:25,005  INFO root [main] - Element element: ddFirst loaded
+2020-06-16 14:52:25,219  INFO root [main] - DropDown Element: ddFirst => JAVA is Selected
+2020-06-16 14:52:25,219  INFO root [main] - Selected the value for first drop down
+2020-06-16 14:52:25,271  INFO root [main] - Page loaded successfully
+2020-06-16 14:52:25,568  INFO root [main] - Element element: ddFirst loaded
+2020-06-16 14:52:30,644 ERROR root [main] - #### Failure at the method:  selectByVisibleText() of DropDown class
+2020-06-16 14:52:30,649 ERROR root [main] - Failed to select the value for first drop down com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: #### Failure at the method:  selectByVisibleText() of DropDown class.org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Eclipse
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'FINLHYDAI452039', ip: '10.231.67.248', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+2020-06-16 14:52:30,685  INFO root [main] - Page loaded successfully
+2020-06-16 14:52:31,161  INFO root [main] - Element element: ddThird loaded
+2020-06-16 14:52:31,424  INFO root [main] - WebDriver clicking on: 'id: dropdowm-menu-3]] '
+2020-06-16 14:52:31,426  INFO root [main] - DropDown Element: ddThird => CSS is Selected
+2020-06-16 14:52:31,426  INFO root [main] - Selected the value for third drop down
+2020-06-16 14:52:31,521  INFO root [main] - Page loaded successfully
+2020-06-16 14:52:31,860  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-06-16 14:52:32,062  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-06-16 14:52:32,195  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-06-16 14:52:32,219  INFO root [main] - Page loaded successfully
+2020-06-16 14:52:32,436  INFO root [main] - Element element: ddThird loaded
+2020-06-16 14:52:32,642  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.DropdownCheckboxesRadioButtonsPage.ddThird'
+2020-06-16 14:52:32,642  INFO root [main] - Selected the value for Green Radio Button
+2020-06-16 14:52:38,925  INFO root [main] - TestCase with Id:TC11574 is updated successfully in Rally
+2020-06-16 14:52:45,280  INFO root [main] - ================================ TEST METHOD ENDS  =========================================

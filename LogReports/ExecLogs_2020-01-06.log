@@ -1,0 +1,287 @@
+2020-01-06 22:12:12,941  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-06 22:12:12,961  INFO root [main] - Reading the Configuration file
+2020-01-06 22:12:13,361  INFO root [main] - Completed the reading of the Configuration file
+2020-01-06 22:12:13,973 ERROR root [main] - Failed to initiate Chrome Driverjava.lang.IllegalStateException: The driver executable does not exist: D:\HackathonTestFactory\.\src\main\resources\drivers\chromedriver.exe
+2020-01-06 22:12:13,973  INFO root [main] - Started Chrome Browser successfully.
+2020-01-06 22:12:14,025 ERROR root [main] - Failed to start the scenariojava.lang.NullPointerException
+2020-01-06 22:12:14,313  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-01-06 22:13:44,870  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-06 22:13:44,886  INFO root [main] - Reading the Configuration file
+2020-01-06 22:13:45,150  INFO root [main] - Completed the reading of the Configuration file
+2020-01-06 22:13:45,458  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-06 22:13:50,759  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-06 22:13:50,779  INFO root [main] - Started Chrome Browser successfully.
+2020-01-06 22:13:51,839  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-06 22:13:51,839  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-06 22:13:51,839  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-06 22:13:56,495  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-06 22:13:58,816  INFO root [main] - Page loaded successfully
+2020-01-06 22:14:03,956 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:14:09,981 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:14:16,017 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:14:22,102 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:14:28,186 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:14:34,243 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:14:34,247 ERROR root [main] - #### Element element:  loading failed
+2020-01-06 22:14:34,247 ERROR root [main] - #### Failure at the method:  getText() of Element class
+2020-01-06 22:14:34,247 ERROR root [main] - ####  HyperLink element:  click failed
+2020-01-06 22:14:34,247 ERROR root [main] - #### Failure at the method:  clickLink() of Frame class
+2020-01-06 22:14:34,247 ERROR root [main] - Failed to Click on the Login Portal Link com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: #### Failure at the method:  clickLink() of Frame class.com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: HyperLink element:  not found
+2020-01-06 22:14:34,367  INFO root [main] - Page loaded successfully
+2020-01-06 22:14:34,423  INFO root [main] - Page loaded successfully
+2020-01-06 22:14:39,483 ERROR root [main] - WebDriver error: Element not found By.id: text
+2020-01-06 22:14:45,556 ERROR root [main] - WebDriver error: Element not found By.id: text
+2020-01-06 22:14:51,617 ERROR root [main] - WebDriver error: Element not found By.id: text
+2020-01-06 22:14:57,697 ERROR root [main] - WebDriver error: Element not found By.id: text
+2020-01-06 22:15:03,754 ERROR root [main] - WebDriver error: Element not found By.id: text
+2020-01-06 22:15:09,806 ERROR root [main] - WebDriver error: Element not found By.id: text
+2020-01-06 22:15:09,806 ERROR root [main] - #### Element element:  loading failed
+2020-01-06 22:15:09,806 ERROR root [main] - #### Failure at the method:  setText() of TextField class
+2020-01-06 22:15:09,806 ERROR root [main] - Failed to set the user name text com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: #### Failure at the method:  setText() of TextField class.com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: Element:  not loadedcom.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: Element: null not foundjava.lang.NullPointerException
+2020-01-06 22:15:09,850  INFO root [main] - Page loaded successfully
+2020-01-06 22:15:14,895 ERROR root [main] - WebDriver error: Element not found By.id: password
+2020-01-06 22:15:20,951 ERROR root [main] - WebDriver error: Element not found By.id: password
+2020-01-06 22:15:27,020 ERROR root [main] - WebDriver error: Element not found By.id: password
+2020-01-06 22:15:33,052 ERROR root [main] - WebDriver error: Element not found By.id: password
+2020-01-06 22:15:39,105 ERROR root [main] - WebDriver error: Element not found By.id: password
+2020-01-06 22:15:45,166 ERROR root [main] - WebDriver error: Element not found By.id: password
+2020-01-06 22:15:45,166 ERROR root [main] - #### Element element:  loading failed
+2020-01-06 22:15:45,166 ERROR root [main] - #### Failure at the method:  setText() of TextField class
+2020-01-06 22:15:45,166 ERROR root [main] - Failed to set the password text com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: #### Failure at the method:  setText() of TextField class.com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: Element:  not loadedcom.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: Element: null not foundjava.lang.NullPointerException
+2020-01-06 22:15:45,194  INFO root [main] - Page loaded successfully
+2020-01-06 22:15:50,274 ERROR root [main] - WebDriver error: Element not found By.id: login-button
+2020-01-06 22:16:15,125  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-06 22:16:15,165  INFO root [main] - Reading the Configuration file
+2020-01-06 22:16:15,549  INFO root [main] - Completed the reading of the Configuration file
+2020-01-06 22:16:16,049  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-06 22:16:23,914  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-06 22:16:23,942  INFO root [main] - Started Chrome Browser successfully.
+2020-01-06 22:16:25,134  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-06 22:16:25,134  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-06 22:16:25,134  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-06 22:16:28,419  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-06 22:16:38,328  INFO root [main] - Page loaded successfully
+2020-01-06 22:16:43,572 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:16:48,805 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:16:54,949 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:17:01,074 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:17:07,150 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:17:13,231 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:17:19,356 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:17:19,376 ERROR root [main] - #### Element element:  loading failed
+2020-01-06 22:17:19,376 ERROR root [main] - #### Failure at the method:  getText() of Element class
+2020-01-06 22:17:19,376 ERROR root [main] - ####  HyperLink element:  click failed
+2020-01-06 22:17:19,376 ERROR root [main] - #### Failure at the method:  clickLink() of Frame class
+2020-01-06 22:17:24,524 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:17:29,564 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=button-clicks]/div/div[1]/h1
+2020-01-06 22:17:34,641 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=to-do-list]/div/div[1]/h1
+2020-01-06 22:17:39,697 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=dropdown-checkboxes-radiobuttons]/div/div[1]/h1
+2020-01-06 22:17:44,786 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=popup-alerts]/div/div[1]/h1
+2020-01-06 22:17:49,862 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=actions]/div/div[1]/h1
+2020-01-06 22:18:19,705 ERROR root [main] - Failed to Click on the Login Portal Link com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: #### Failure at the method:  clickLink() of Frame class.com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: HyperLink element:  not found
+2020-01-06 22:18:19,857  INFO root [main] - Page loaded successfully
+2020-01-06 22:18:19,917  INFO root [main] - Page loaded successfully
+2020-01-06 22:19:26,630  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-06 22:19:26,642  INFO root [main] - Reading the Configuration file
+2020-01-06 22:19:26,834  INFO root [main] - Completed the reading of the Configuration file
+2020-01-06 22:19:27,278  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-06 22:19:32,779  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-06 22:19:32,807  INFO root [main] - Started Chrome Browser successfully.
+2020-01-06 22:19:33,867  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-06 22:19:33,867  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-06 22:19:33,867  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-06 22:19:36,715  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-06 22:19:41,247  INFO root [main] - Page loaded successfully
+2020-01-06 22:19:46,432 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:19:51,596 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:19:57,677 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:20:03,746 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:20:09,846 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:20:15,923 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:20:21,995 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:20:22,035 ERROR root [main] - #### Element element:  loading failed
+2020-01-06 22:20:22,035 ERROR root [main] - #### Failure at the method:  getText() of Element class
+2020-01-06 22:20:27,232 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:20:32,304 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=button-clicks]/div/div[1]/h1
+2020-01-06 22:20:37,341 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=to-do-list]/div/div[1]/h1
+2020-01-06 22:20:42,369 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=dropdown-checkboxes-radiobuttons]/div/div[1]/h1
+2020-01-06 22:20:45,494 ERROR root [main] - WebDriver error:org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.88)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'FINLHYDAI452039', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=accept, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e), userDataDir=C:\Users\sharmav\AppData\Local\Temp\scoped_dir18120_24994}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=accept, databaseEnabled=false, handlesAlerts=true, version=79.0.3945.88, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 898795ea8f85d423e2c95925cdc3233a
+*** Element info: {Using=xpath, value=//*[@id=actions]/div/div[1]/h1}
+2020-01-06 22:20:47,446  INFO root [main] - Clicked on Login Portal Link
+2020-01-06 22:20:47,530 ERROR root [main] - WebDriver error:org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.88)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'FINLHYDAI452039', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=accept, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e), userDataDir=C:\Users\sharmav\AppData\Local\Temp\scoped_dir18120_24994}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=accept, databaseEnabled=false, handlesAlerts=true, version=79.0.3945.88, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 898795ea8f85d423e2c95925cdc3233a
+2020-01-06 22:21:40,899  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-06 22:21:40,911  INFO root [main] - Reading the Configuration file
+2020-01-06 22:21:41,107  INFO root [main] - Completed the reading of the Configuration file
+2020-01-06 22:21:41,443  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-06 22:21:46,769  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-06 22:21:46,797  INFO root [main] - Started Chrome Browser successfully.
+2020-01-06 22:21:47,885  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-06 22:21:47,885  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-06 22:21:47,885  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-06 22:21:52,287  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-06 22:21:54,662  INFO root [main] - Page loaded successfully
+2020-01-06 22:22:00,051 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:22:05,171 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:22:11,236 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:22:17,284 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:22:23,313 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:22:29,346 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:22:35,382 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:22:35,390 ERROR root [main] - #### Element element:  loading failed
+2020-01-06 22:22:35,390 ERROR root [main] - #### Failure at the method:  getText() of Element class
+2020-01-06 22:22:40,499 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=login-portal]/div/div[1]/h1
+2020-01-06 22:22:45,575 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=button-clicks]/div/div[1]/h1
+2020-01-06 22:22:50,620 ERROR root [main] - WebDriver error: Element not found By.xpath: //*[@id=to-do-list]/div/div[1]/h1
+2020-01-06 22:22:50,660  INFO root [main] - Clicked on Login Portal Link
+2020-01-06 22:22:50,840  INFO root [main] - Page loaded successfully
+2020-01-06 22:22:52,024  INFO root [main] - Page loaded successfully
+2020-01-06 22:22:52,216  INFO root [main] - Element element: btnUserName loaded
+2020-01-06 22:22:52,308  INFO root [main] - TextField element: btnUserName => TestFactory set text successfully
+2020-01-06 22:22:52,308  INFO root [main] - Entered the user name
+2020-01-06 22:22:52,328  INFO root [main] - Page loaded successfully
+2020-01-06 22:22:52,520  INFO root [main] - Element element: btnPassword loaded
+2020-01-06 22:22:52,632  INFO root [main] - TextField element: btnPassword => TestFactoryPassword set text successfully
+2020-01-06 22:22:52,632  INFO root [main] - Entered the password
+2020-01-06 22:22:52,656  INFO root [main] - Page loaded successfully
+2020-01-06 22:22:52,844  INFO root [main] - Element element: btnLogin loaded
+2020-01-06 22:22:52,912  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.LoginPage.btnLogin'
+2020-01-06 22:22:52,912  INFO root [main] - Button element: btnLogin clicked
+2020-01-06 22:22:52,912  INFO root [main] - Clicked on the login button 
+2020-01-06 22:22:52,940  INFO root [main] - *** Verified: Alert message appears  = validation failed' ***
+2020-01-06 22:22:54,124  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-01-06 22:26:43,241  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-06 22:26:43,257  INFO root [main] - Reading the Configuration file
+2020-01-06 22:26:43,441  INFO root [main] - Completed the reading of the Configuration file
+2020-01-06 22:26:43,673  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-06 22:26:48,546  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-06 22:26:48,558  INFO root [main] - Started Chrome Browser successfully.
+2020-01-06 22:26:49,618  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-06 22:26:49,618  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-06 22:26:49,618  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-06 22:26:54,354  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-06 22:26:56,538  INFO root [main] - Page loaded successfully
+2020-01-06 22:26:56,798  INFO root [main] - Element element: lnkLoginPortal loaded
+2020-01-06 22:26:56,882  INFO root [main] - Clicked on Login Portal Link
+2020-01-06 22:26:57,046  INFO root [main] - Page loaded successfully
+2020-01-06 22:26:58,178  INFO root [main] - Page loaded successfully
+2020-01-06 22:26:58,330  INFO root [main] - Element element: btnUserName loaded
+2020-01-06 22:26:58,423  INFO root [main] - TextField element: btnUserName => TestFactory set text successfully
+2020-01-06 22:26:58,423  INFO root [main] - Entered the user name
+2020-01-06 22:26:58,443  INFO root [main] - Page loaded successfully
+2020-01-06 22:26:58,587  INFO root [main] - Element element: btnPassword loaded
+2020-01-06 22:26:58,703  INFO root [main] - TextField element: btnPassword => TestFactoryPassword set text successfully
+2020-01-06 22:26:58,703  INFO root [main] - Entered the password
+2020-01-06 22:26:58,723  INFO root [main] - Page loaded successfully
+2020-01-06 22:26:58,867  INFO root [main] - Element element: btnLogin loaded
+2020-01-06 22:26:58,943  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.LoginPage.btnLogin'
+2020-01-06 22:26:58,943  INFO root [main] - Button element: btnLogin clicked
+2020-01-06 22:26:58,943  INFO root [main] - Clicked on the login button 
+2020-01-06 22:26:58,967  INFO root [main] - *** Verified: Alert message appears  = validation failed' ***
+2020-01-06 22:27:00,279  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-01-06 22:30:41,734  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-06 22:30:41,746  INFO root [main] - Reading the Configuration file
+2020-01-06 22:30:41,938  INFO root [main] - Completed the reading of the Configuration file
+2020-01-06 22:30:42,198  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-06 22:30:47,463  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-06 22:30:47,479  INFO root [main] - Started Chrome Browser successfully.
+2020-01-06 22:30:48,551  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-06 22:30:48,551  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-06 22:30:48,551  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-06 22:30:52,751  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-06 22:30:54,995  INFO root [main] - Page loaded successfully
+2020-01-06 22:30:55,283  INFO root [main] - Element element: lnkLoginPortal loaded
+2020-01-06 22:30:55,364  INFO root [main] - Clicked on Login Portal Link
+2020-01-06 22:30:55,524  INFO root [main] - Page loaded successfully
+2020-01-06 22:30:56,636  INFO root [main] - Page loaded successfully
+2020-01-06 22:30:56,788  INFO root [main] - Element element: btnUserName loaded
+2020-01-06 22:30:56,884  INFO root [main] - TextField element: btnUserName => TestFactory set text successfully
+2020-01-06 22:30:56,884  INFO root [main] - Entered the user name
+2020-01-06 22:30:56,900  INFO root [main] - Page loaded successfully
+2020-01-06 22:30:57,044  INFO root [main] - Element element: btnPassword loaded
+2020-01-06 22:30:57,136  INFO root [main] - TextField element: btnPassword => TestFactoryPassword set text successfully
+2020-01-06 22:30:57,136  INFO root [main] - Entered the password
+2020-01-06 22:30:57,148  INFO root [main] - Page loaded successfully
+2020-01-06 22:30:57,292  INFO root [main] - Element element: btnLogin loaded
+2020-01-06 22:30:57,360  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.LoginPage.btnLogin'
+2020-01-06 22:30:57,360  INFO root [main] - Button element: btnLogin clicked
+2020-01-06 22:30:57,360  INFO root [main] - Clicked on the login button 
+2020-01-06 22:30:57,396  INFO root [main] - *** Verified: Alert message appears  = validation failed' ***
+2020-01-06 22:30:58,744  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-01-06 23:17:01,543  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-06 23:17:01,555  INFO root [main] - Reading the Configuration file
+2020-01-06 23:17:01,739  INFO root [main] - Completed the reading of the Configuration file
+2020-01-06 23:17:02,019  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-06 23:17:06,459  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-06 23:17:06,475  INFO root [main] - Started Chrome Browser successfully.
+2020-01-06 23:17:07,543  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-06 23:17:07,543  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-06 23:17:07,543  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-06 23:17:12,231  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-06 23:17:14,620  INFO root [main] - Page loaded successfully
+2020-01-06 23:17:15,188  INFO root [main] - Element element: lnkLoginPortal loaded
+2020-01-06 23:17:15,296  INFO root [main] - Clicked on Login Portal Link
+2020-01-06 23:17:15,540  INFO root [main] - Page loaded successfully
+2020-01-06 23:17:17,228  INFO root [main] - Page loaded successfully
+2020-01-06 23:17:17,404  INFO root [main] - Element element: btnUserName loaded
+2020-01-06 23:17:17,488  INFO root [main] - TextField element: btnUserName => TestFactory set text successfully
+2020-01-06 23:17:17,488  INFO root [main] - Entered the user name
+2020-01-06 23:17:17,508  INFO root [main] - Page loaded successfully
+2020-01-06 23:17:17,684  INFO root [main] - Element element: btnPassword loaded
+2020-01-06 23:17:17,820  INFO root [main] - TextField element: btnPassword => TestFactoryPassword set text successfully
+2020-01-06 23:17:17,820  INFO root [main] - Entered the password
+2020-01-06 23:17:17,836  INFO root [main] - Page loaded successfully
+2020-01-06 23:17:17,996  INFO root [main] - Element element: btnLogin loaded
+2020-01-06 23:17:18,064  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.LoginPage.btnLogin'
+2020-01-06 23:17:18,064  INFO root [main] - Button element: btnLogin clicked
+2020-01-06 23:17:18,064  INFO root [main] - Clicked on the login button 
+2020-01-06 23:17:18,088  INFO root [main] - *** Verified: Alert message appears  = validation failed' ***
+2020-01-06 23:17:21,132  INFO root [main] - TestCase with Id:TC11573 is updated successfully in Rally
+2020-01-06 23:17:22,176  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-01-06 23:18:39,248  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-06 23:18:39,264  INFO root [main] - Reading the Configuration file
+2020-01-06 23:18:39,508  INFO root [main] - Completed the reading of the Configuration file
+2020-01-06 23:18:39,796  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-06 23:18:44,619  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-06 23:18:44,635  INFO root [main] - Started Chrome Browser successfully.
+2020-01-06 23:18:45,683  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-06 23:18:45,687  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-06 23:18:45,687  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-06 23:18:49,419  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-06 23:18:51,703  INFO root [main] - Page loaded successfully
+2020-01-06 23:18:51,987  INFO root [main] - Element element: lnkLoginPortal loaded
+2020-01-06 23:18:52,091  INFO root [main] - Clicked on Login Portal Link
+2020-01-06 23:18:52,211  INFO root [main] - Page loaded successfully
+2020-01-06 23:18:53,391  INFO root [main] - Page loaded successfully
+2020-01-06 23:18:53,615  INFO root [main] - Element element: btnUserName loaded
+2020-01-06 23:18:53,707  INFO root [main] - TextField element: btnUserName => TestFactory set text successfully
+2020-01-06 23:18:53,707  INFO root [main] - Entered the user name
+2020-01-06 23:18:53,727  INFO root [main] - Page loaded successfully
+2020-01-06 23:18:53,883  INFO root [main] - Element element: btnPassword loaded
+2020-01-06 23:18:54,011  INFO root [main] - TextField element: btnPassword => TestFactoryPassword set text successfully
+2020-01-06 23:18:54,011  INFO root [main] - Entered the password
+2020-01-06 23:18:54,027  INFO root [main] - Page loaded successfully
+2020-01-06 23:18:54,191  INFO root [main] - Element element: btnLogin loaded
+2020-01-06 23:18:54,263  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.LoginPage.btnLogin'
+2020-01-06 23:18:54,263  INFO root [main] - Button element: btnLogin clicked
+2020-01-06 23:18:54,263  INFO root [main] - Clicked on the login button 
+2020-01-06 23:18:54,287  INFO root [main] - *** Verified: Alert message appears  = validation failed' ***
+2020-01-06 23:18:57,251  INFO root [main] - TestCase with Id:TC11573 is updated successfully in Rally
+2020-01-06 23:18:58,540  INFO root [main] - ================================ TEST METHOD ENDS  =========================================

@@ -1,0 +1,149 @@
+{
+  "uid" : "55391d4354f1874",
+  "name" : "loginTest[org.testng.TestRunner@121f97fb]",
+  "title" : "Login test [org.testng.TestRunner@121f97fb]",
+  "time" : {
+    "start" : 1592299312691,
+    "stop" : 1592299352870,
+    "duration" : 40179
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 6
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "fbfa76bd3b1ab596",
+    "name" : "Suite : Test Factory",
+    "title" : "Suite : Test Factory"
+  },
+  "steps" : [ {
+    "name" : "logInformation[Navigated to Dropdown-Checkboxes-RadioButtons Page]",
+    "title" : "Navigated to Dropdown-Checkboxes-RadioButtons Page",
+    "time" : {
+      "start" : 1592299342590,
+      "stop" : 1592299342594,
+      "duration" : 4
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logInformation[Selected the value of first Drop Down]",
+    "title" : "Selected the value of first Drop Down",
+    "time" : {
+      "start" : 1592299345229,
+      "stop" : 1592299345229,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logInformation[Selected the value of second Drop Down]",
+    "title" : "Selected the value of second Drop Down",
+    "time" : {
+      "start" : 1592299350651,
+      "stop" : 1592299350651,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logInformation[Selected the value of third Drop Down]",
+    "title" : "Selected the value of third Drop Down",
+    "time" : {
+      "start" : 1592299351428,
+      "stop" : 1592299351428,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logInformation[Selected all the checkboxes]",
+    "title" : "Selected all the checkboxes",
+    "time" : {
+      "start" : 1592299352200,
+      "stop" : 1592299352200,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "logInformation[Selected Green Radio Button]",
+    "title" : "Selected Green Radio Button",
+    "time" : {
+      "start" : 1592299352645,
+      "stop" : 1592299352645,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Suite : Test Factory"
+  }, {
+    "name" : "testGroup",
+    "value" : "Test Factory"
+  }, {
+    "name" : "host",
+    "value" : "FINLHYDAI452039"
+  }, {
+    "name" : "thread",
+    "value" : "10084@FINLHYDAI452039.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Suite : Test Factory"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  } ],
+  "parameters" : [ ]
+}

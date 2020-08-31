@@ -1,0 +1,71 @@
+2020-01-15 19:37:26,990  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-15 19:37:27,026  INFO root [main] - Reading the Configuration file
+2020-01-15 19:37:27,280  INFO root [main] - Completed the reading of the Configuration file
+2020-01-15 19:37:29,197  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-15 19:37:34,094  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-15 19:37:34,118  INFO root [main] - Started Chrome Browser successfully.
+2020-01-15 19:37:35,239  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-15 19:37:35,239  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-15 19:37:35,243  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-15 19:37:38,132  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-15 19:37:40,533  INFO root [main] - Page loaded successfully
+2020-01-15 19:37:40,765  INFO root [main] - Element element: lnkLoginPortal loaded
+2020-01-15 19:37:40,821  INFO root [main] - Clicked on Login Portal Link
+2020-01-15 19:37:40,945  INFO root [main] - Page loaded successfully
+2020-01-15 19:37:42,169  INFO root [main] - Page loaded successfully
+2020-01-15 19:37:42,385  INFO root [main] - Element element: btnUserName loaded
+2020-01-15 19:37:42,561  INFO root [main] - TextField element: btnUserName => TestFactory set text successfully
+2020-01-15 19:37:42,561  INFO root [main] - Entered the user name
+2020-01-15 19:37:42,589  INFO root [main] - Page loaded successfully
+2020-01-15 19:37:42,833  INFO root [main] - Element element: btnPassword loaded
+2020-01-15 19:37:42,965  INFO root [main] - TextField element: btnPassword => TestFactoryPassword set text successfully
+2020-01-15 19:37:42,965  INFO root [main] - Entered the password
+2020-01-15 19:37:42,985  INFO root [main] - Page loaded successfully
+2020-01-15 19:37:43,157  INFO root [main] - Element element: btnLogin loaded
+2020-01-15 19:37:43,221  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.LoginPage.btnLogin'
+2020-01-15 19:37:43,221  INFO root [main] - Button element: btnLogin clicked
+2020-01-15 19:37:43,221  INFO root [main] - Clicked on the login button 
+2020-01-15 19:37:43,249  INFO root [main] - *** Verified: Alert message appears  = validation failed' ***
+2020-01-15 19:37:43,697 ERROR root [main] - Authentication error --java.net.UnknownHostException: zs-servproxy.utc.com
+2020-01-15 19:37:45,708  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-01-15 19:37:45,708  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-15 19:37:45,716  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-15 19:37:47,737  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-15 19:37:47,741  INFO root [main] - Started Chrome Browser successfully.
+2020-01-15 19:37:48,754  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-15 19:37:48,754  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-15 19:37:48,754  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-15 19:37:50,673  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-15 19:37:52,718  INFO root [main] - Page loaded successfully
+2020-01-15 19:37:52,893  INFO root [main] - Element element: lnkDropDownRadioCheckBox loaded
+2020-01-15 19:37:53,041  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.HomePage.lnkDropDownRadioCheckBox'
+2020-01-15 19:37:53,041  INFO root [main] - HyperLink element: lnkDropDownRadioCheckBox clicked
+2020-01-15 19:37:53,041  INFO root [main] - Clicked on Drop Down, Radio and Check boxes Link
+2020-01-15 19:37:53,169  INFO root [main] - Page loaded successfully
+2020-01-15 19:37:54,565  INFO root [main] - Page loaded successfully
+2020-01-15 19:37:54,773  INFO root [main] - Element element: ddFirst loaded
+2020-01-15 19:37:54,825  INFO root [main] - DropDown Element: ddFirst => JAVA is Selected
+2020-01-15 19:37:54,825  INFO root [main] - Selected the value for first drop down
+2020-01-15 19:37:54,845  INFO root [main] - Page loaded successfully
+2020-01-15 19:37:55,052  INFO root [main] - Element element: ddFirst loaded
+2020-01-15 19:38:00,130 ERROR root [main] - #### Failure at the method:  selectByVisibleText() of DropDown class
+2020-01-15 19:38:00,130 ERROR root [main] - Failed to select the value for first drop down com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: #### Failure at the method:  selectByVisibleText() of DropDown class.org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Eclipse
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'FINLHYDAI452039', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+2020-01-15 19:38:00,150  INFO root [main] - Page loaded successfully
+2020-01-15 19:38:00,462  INFO root [main] - Element element: ddThird loaded
+2020-01-15 19:38:00,625  INFO root [main] - WebDriver clicking on: 'id: dropdowm-menu-3]] '
+2020-01-15 19:38:00,625  INFO root [main] - DropDown Element: ddThird => CSS is Selected
+2020-01-15 19:38:00,625  INFO root [main] - Selected the value for third drop down
+2020-01-15 19:38:00,659  INFO root [main] - Page loaded successfully
+2020-01-15 19:38:00,781  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-01-15 19:38:00,857  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-01-15 19:38:00,937  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-01-15 19:38:00,953  INFO root [main] - Page loaded successfully
+2020-01-15 19:38:01,095  INFO root [main] - Element element: ddThird loaded
+2020-01-15 19:38:01,193  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.DropdownCheckboxesRadioButtonsPage.ddThird'
+2020-01-15 19:38:01,193  INFO root [main] - Selected the value for Green Radio Button
+2020-01-15 19:38:01,269 ERROR root [main] - Authentication error --java.net.UnknownHostException: zs-servproxy.utc.com
+2020-01-15 19:38:02,724  INFO root [main] - ================================ TEST METHOD ENDS  =========================================

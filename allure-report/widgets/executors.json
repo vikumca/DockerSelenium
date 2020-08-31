@@ -1,0 +1,9 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "buildOrder" : 76,
+  "buildName" : "TestFactory #76",
+  "buildUrl" : "nulljob/TestFactory/76/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "nulljob/TestFactory/76/allure"
+} ]

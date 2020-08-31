@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "FINLHYDAI452039",
+    "children" : [ {
+      "name" : "21628@FINLHYDAI452039.main(1)",
+      "children" : [ {
+        "name" : "loginTest[org.testng.TestRunner@15c8b75c]",
+        "uid" : "22f4b92a34e8c395",
+        "parentUid" : "563adc95c2917e93a112801f55f45940",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579513643664,
+          "stop" : 1579513655954,
+          "duration" : 12290
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest[org.testng.TestRunner@15c8b75c]",
+        "uid" : "33d8dc508504f530",
+        "parentUid" : "563adc95c2917e93a112801f55f45940",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579513614128,
+          "stop" : 1579513622430,
+          "duration" : 8302
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "563adc95c2917e93a112801f55f45940"
+    } ],
+    "uid" : "7b92fcf76768edaa1911cfc402d7f42b"
+  } ]
+}

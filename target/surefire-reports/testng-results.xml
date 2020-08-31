@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Navigated to Dropdown-Checkboxes-RadioButtons Page]]>
+    </line>
+    <line>
+      <![CDATA[Selected the value of first Drop Down]]>
+    </line>
+    <line>
+      <![CDATA[Selected the value of second Drop Down]]>
+    </line>
+    <line>
+      <![CDATA[Selected the value of third Drop Down]]>
+    </line>
+    <line>
+      <![CDATA[Selected all the checkboxes]]>
+    </line>
+    <line>
+      <![CDATA[Selected Green Radio Button]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78349" started-at="2020-06-16T09:21:26Z" finished-at="2020-06-16T09:22:45Z">
+    <groups>
+    </groups>
+    <test name="Test Factory" duration-ms="78349" started-at="2020-06-16T09:21:26Z" finished-at="2020-06-16T09:22:45Z">
+      <class name="com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest@2184b4f4]" name="init" is-config="true" duration-ms="953" started-at="2020-06-16T14:51:27Z" finished-at="2020-06-16T14:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="startingMethodPreReq()[pri:0, instance:com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest@2184b4f4]" name="startingMethodPreReq" is-config="true" duration-ms="23905" started-at="2020-06-16T14:51:28Z" finished-at="2020-06-16T14:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startingMethodPreReq -->
+        <test-method status="PASS" signature="loginTest(org.testng.ITestContext)[pri:0, instance:com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest@2184b4f4]" name="loginTest" duration-ms="40588" started-at="2020-06-16T14:51:52Z" finished-at="2020-06-16T14:52:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@121f97fb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Dropdown-Checkboxes-RadioButtons Page]]>
+            </line>
+            <line>
+              <![CDATA[Selected the value of first Drop Down]]>
+            </line>
+            <line>
+              <![CDATA[Selected the value of second Drop Down]]>
+            </line>
+            <line>
+              <![CDATA[Selected the value of third Drop Down]]>
+            </line>
+            <line>
+              <![CDATA[Selected all the checkboxes]]>
+            </line>
+            <line>
+              <![CDATA[Selected Green Radio Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="updateTestCaseStatus(org.testng.ITestResult)[pri:0, instance:com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest@2184b4f4]" name="updateTestCaseStatus" is-config="true" duration-ms="6053" started-at="2020-06-16T14:52:32Z" finished-at="2020-06-16T14:52:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=DropDownRadioCheckBoxesTest.loginTest(org.testng.ITestContext)[pri:0, instance:com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest@2184b4f4] output=Navigated to Dropdown-Checkboxes-RadioButtons Page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTestCaseStatus -->
+        <test-method status="PASS" signature="logoutAndCloseOpenedBrowsers()[pri:0, instance:com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest@2184b4f4]" name="logoutAndCloseOpenedBrowsers" is-config="true" duration-ms="6353" started-at="2020-06-16T14:52:38Z" finished-at="2020-06-16T14:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAndCloseOpenedBrowsers -->
+      </class> <!-- com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest -->
+    </test> <!-- Test Factory -->
+  </suite> <!-- Suite -->
+</testng-results>

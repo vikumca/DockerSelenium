@@ -1,0 +1,21 @@
+[ {
+  "uid" : "33d8dc508504f530",
+  "name" : "loginTest[org.testng.TestRunner@15c8b75c]",
+  "time" : {
+    "start" : 1579513614128,
+    "stop" : 1579513622430,
+    "duration" : 8302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22f4b92a34e8c395",
+  "name" : "loginTest[org.testng.TestRunner@15c8b75c]",
+  "time" : {
+    "start" : 1579513643664,
+    "stop" : 1579513655954,
+    "duration" : 12290
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

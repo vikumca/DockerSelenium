@@ -1,0 +1,31 @@
+{
+  "hosts" : [ {
+    "title" : "FINLHYDAI452039",
+    "threads" : [ {
+      "title" : "10084@FINLHYDAI452039.main(1)",
+      "testCases" : [ {
+        "uid" : "356f3d8fe99d45aa",
+        "name" : "loginTest",
+        "title" : "Login test",
+        "time" : {
+          "start" : 1592299287281,
+          "stop" : 1592299287293,
+          "duration" : 12
+        },
+        "severity" : "NORMAL",
+        "status" : "PENDING"
+      }, {
+        "uid" : "55391d4354f1874",
+        "name" : "loginTest[org.testng.TestRunner@121f97fb]",
+        "title" : "Login test [org.testng.TestRunner@121f97fb]",
+        "time" : {
+          "start" : 1592299312691,
+          "stop" : 1592299352870,
+          "duration" : 40179
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

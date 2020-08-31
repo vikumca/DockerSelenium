@@ -1,0 +1,266 @@
+{
+  "dc145f535346d0b16ff5c76444636640" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33d8dc508504f530",
+      "reportUrl" : "nulljob/TestFactory/76/allure/#testresult/33d8dc508504f530",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579513614128,
+        "stop" : 1579513622430,
+        "duration" : 8302
+      }
+    } ]
+  },
+  "dd5a5b8b354c8670474cb84395fc214d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3423cf6d30a93f97",
+      "reportUrl" : "nulljob/TestFactory/73/allure/#testresult/3423cf6d30a93f97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579153204839,
+        "stop" : 1579153213550,
+        "duration" : 8711
+      }
+    } ]
+  },
+  "39abfcb71d63d6774ded7de4865ced6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22f4b92a34e8c395",
+      "reportUrl" : "nulljob/TestFactory/76/allure/#testresult/22f4b92a34e8c395",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579513643664,
+        "stop" : 1579513655954,
+        "duration" : 12290
+      }
+    } ]
+  },
+  "8a8f2bf61fd7550acf825bc1e0957ee8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e07eb00a25dd28e",
+      "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/67/allure/#testresult/8e07eb00a25dd28e",
+      "status" : "broken",
+      "statusDetails" : "WebDriverException: chrome not reachable\n  (Session info: chrome=66.0.3359.117)\n  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 4.04 seconds\nBuild info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'\nSystem info: host: 'FINLHYDAI452039', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\\Users\\sharmav\\AppData\\Local\\Temp\\scoped_dir17012_4109}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.117, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=accept}]\nSession ID: 2fe0c618d174d3096a3122115910c45c\n*** Element info: {Using=xpath, value=//*[@id='FLTBody']//div[contains(@class,'message-success')]/span}",
+      "time" : {
+        "start" : 1524828044602,
+        "stop" : 1524828044609,
+        "duration" : 7
+      }
+    } ]
+  },
+  "eaae78119abb6aaa19a7257fb0a95499" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4332d5b810d03941",
+      "reportUrl" : "nulljob/TestFactory/73/allure/#testresult/4332d5b810d03941",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579153188008,
+        "stop" : 1579153191156,
+        "duration" : 3148
+      }
+    } ]
+  },
+  "8e28e045ac6b444fe9874de788b2f208" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a1e4aa4e9690c1de",
+      "reportUrl" : "nulljob/TestFactory/74/allure/#testresult/a1e4aa4e9690c1de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579250386179,
+        "stop" : 1579250389198,
+        "duration" : 3019
+      }
+    } ]
+  },
+  "a92ecb00a3d991730a8ba9bdff03bcaa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "444fc270f8014441",
+      "reportUrl" : "nulljob/TestFactory/74/allure/#testresult/444fc270f8014441",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579250403020,
+        "stop" : 1579250411895,
+        "duration" : 8875
+      }
+    } ]
+  },
+  "2cf528299abbcc24221789c624a0d44e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2c32afc74848916",
+      "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/67/allure/#testresult/e2c32afc74848916",
+      "status" : "broken",
+      "statusDetails" : "FrameworkExceptions: Failed to Close the Opened browsersorg.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome=66.0.3359.117)\n  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 212 milliseconds\nBuild info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'\nSystem info: host: 'FINLHYDAI452039', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\\Users\\sharmav\\AppData\\Local\\Temp\\scoped_dir17012_4109}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.117, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=accept}]\nSession ID: 2fe0c618d174d3096a3122115910c45c",
+      "time" : {
+        "start" : 1524828044833,
+        "stop" : 1524828044834,
+        "duration" : 1
+      }
+    } ]
+  },
+  "583b092d923bb30197e3241bff43d0a1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 4,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "8a396fe564a5cc12",
+      "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/68/allure/#testresult/8a396fe564a5cc12",
+      "status" : "skipped",
+      "statusDetails" : "Test not implemented yet",
+      "time" : {
+        "start" : 1524828113156,
+        "stop" : 1524828113158,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a4384d325f4e66ea",
+      "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/67/allure/#testresult/a4384d325f4e66ea",
+      "status" : "skipped",
+      "statusDetails" : "Test not implemented yet",
+      "time" : {
+        "start" : 1524827845256,
+        "stop" : 1524827845257,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "445fbae8eee1cfd1",
+      "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/66/allure/#testresult/445fbae8eee1cfd1",
+      "status" : "skipped",
+      "statusDetails" : "Test not implemented yet",
+      "time" : {
+        "start" : 1524826815749,
+        "stop" : 1524826815750,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9ca1117576405369",
+      "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/65/allure/#testresult/9ca1117576405369",
+      "status" : "skipped",
+      "statusDetails" : "Test not implemented yet",
+      "time" : {
+        "start" : 1524826568160,
+        "stop" : 1524826568162,
+        "duration" : 2
+      }
+    } ]
+  },
+  "d3617723f670315b2db7dc05fb74e56c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "b6b11359718d5dfe",
+      "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/68/allure/#testresult/b6b11359718d5dfe",
+      "status" : "broken",
+      "statusDetails" : "FrameworkExceptions: #### Failure at the method:  click() of Element class.com.utc.automation.core.exception.FrameworkExceptions: Button element:  not found",
+      "time" : {
+        "start" : 1524828143425,
+        "stop" : 1524828369763,
+        "duration" : 226338
+      }
+    }, {
+      "uid" : "88b0101d01072fb4",
+      "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/67/allure/#testresult/88b0101d01072fb4",
+      "status" : "broken",
+      "statusDetails" : "WebDriverException: chrome not reachable\n  (Session info: chrome=66.0.3359.117)\n  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 4.02 seconds\nBuild info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'\nSystem info: host: 'FINLHYDAI452039', ip: '192.168.99.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91), userDataDir=C:\\Users\\sharmav\\AppData\\Local\\Temp\\scoped_dir17012_4109}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.117, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=accept}]\nSession ID: 2fe0c618d174d3096a3122115910c45c\n*** Element info: {Using=xpath, value=(//img[contains(@src,'ajax-loader-White')])[2]}",
+      "time" : {
+        "start" : 1524827875694,
+        "stop" : 1524828019259,
+        "duration" : 143565
+      }
+    }, {
+      "uid" : "ac291815cb78d498",
+      "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/66/allure/#testresult/ac291815cb78d498",
+      "status" : "broken",
+      "statusDetails" : "FrameworkExceptions: #### Failure at the method:  click() of Element class.com.utc.automation.core.exception.FrameworkExceptions: Button element:  not found",
+      "time" : {
+        "start" : 1524826844508,
+        "stop" : 1524826889052,
+        "duration" : 44544
+      }
+    }, {
+      "uid" : "25ff8bddd2f86dd1",
+      "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/65/allure/#testresult/25ff8bddd2f86dd1",
+      "status" : "broken",
+      "statusDetails" : "FrameworkExceptions: #### Failure at the method:  click() of Element class.com.utc.automation.core.exception.FrameworkExceptions: Button element:  not found",
+      "time" : {
+        "start" : 1524826614442,
+        "stop" : 1524826728609,
+        "duration" : 114167
+      }
+    } ]
+  }
+}

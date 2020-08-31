@@ -1,0 +1,45 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test Factory",
+      "children" : [ {
+        "name" : "com.JavaSelenium.TestFactory.tests.LoginTest",
+        "children" : [ {
+          "name" : "loginTest[org.testng.TestRunner@15c8b75c]",
+          "uid" : "33d8dc508504f530",
+          "parentUid" : "a54d60d762f2d2d1eca39ccf879422ae",
+          "status" : "passed",
+          "time" : {
+            "start" : 1579513614128,
+            "stop" : 1579513622430,
+            "duration" : 8302
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a54d60d762f2d2d1eca39ccf879422ae"
+      }, {
+        "name" : "com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest",
+        "children" : [ {
+          "name" : "loginTest[org.testng.TestRunner@15c8b75c]",
+          "uid" : "22f4b92a34e8c395",
+          "parentUid" : "ae1361490a94dcd9741c66108fa07fc0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1579513643664,
+            "stop" : 1579513655954,
+            "duration" : 12290
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ae1361490a94dcd9741c66108fa07fc0"
+      } ],
+      "uid" : "fe3b86228777966e350a02b1a68329c0"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

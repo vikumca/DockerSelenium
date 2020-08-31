@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest.loginTest","12290",""
+"passed","com.JavaSelenium.TestFactory.tests.LoginTest.loginTest","8302",""

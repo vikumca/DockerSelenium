@@ -1,0 +1,142 @@
+2020-01-20 12:58:52,800  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-20 12:58:52,918  INFO root [main] - Reading the Configuration file
+2020-01-20 12:58:53,564  INFO root [main] - Completed the reading of the Configuration file
+2020-01-20 12:58:54,345  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-20 12:59:01,888  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-20 12:59:01,917  INFO root [main] - Started Chrome Browser successfully.
+2020-01-20 12:59:03,092  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-20 12:59:03,093  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-20 12:59:03,093  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-20 12:59:13,965  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-20 12:59:17,092  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:17,914  INFO root [main] - Element element: lnkLoginPortal loaded
+2020-01-20 12:59:18,149  INFO root [main] - Clicked on Login Portal Link
+2020-01-20 12:59:18,324  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:20,219  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:20,707  INFO root [main] - Element element: btnUserName loaded
+2020-01-20 12:59:21,115  INFO root [main] - TextField element: btnUserName => TestFactory set text successfully
+2020-01-20 12:59:21,115  INFO root [main] - Entered the user name
+2020-01-20 12:59:21,200  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:21,539  INFO root [main] - Element element: btnPassword loaded
+2020-01-20 12:59:21,830  INFO root [main] - TextField element: btnPassword => TestFactoryPassword set text successfully
+2020-01-20 12:59:21,831  INFO root [main] - Entered the password
+2020-01-20 12:59:21,901  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:22,375  INFO root [main] - Element element: btnLogin loaded
+2020-01-20 12:59:22,662  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.LoginPage.btnLogin'
+2020-01-20 12:59:22,662  INFO root [main] - Button element: btnLogin clicked
+2020-01-20 12:59:22,662  INFO root [main] - Clicked on the login button 
+2020-01-20 12:59:22,710  INFO root [main] - *** Verified: Alert message appears  = validation failed' ***
+2020-01-20 12:59:26,935  INFO root [main] - TestCase with Id:TC11573 is updated successfully in Rally
+2020-01-20 12:59:33,350  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-01-20 12:59:33,350  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-20 12:59:33,363  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-20 12:59:36,501  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-20 12:59:36,505  INFO root [main] - Started Chrome Browser successfully.
+2020-01-20 12:59:37,689  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-20 12:59:37,689  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-20 12:59:37,689  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-20 12:59:41,848  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-20 12:59:44,022  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:44,407  INFO root [main] - Element element: lnkDropDownRadioCheckBox loaded
+2020-01-20 12:59:44,706  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.HomePage.lnkDropDownRadioCheckBox'
+2020-01-20 12:59:44,707  INFO root [main] - HyperLink element: lnkDropDownRadioCheckBox clicked
+2020-01-20 12:59:44,707  INFO root [main] - Clicked on Drop Down, Radio and Check boxes Link
+2020-01-20 12:59:44,927  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:46,402  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:46,834  INFO root [main] - Element element: ddFirst loaded
+2020-01-20 12:59:46,909  INFO root [main] - DropDown Element: ddFirst => JAVA is Selected
+2020-01-20 12:59:46,910  INFO root [main] - Selected the value for first drop down
+2020-01-20 12:59:46,938  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:47,541  INFO root [main] - Element element: ddFirst loaded
+2020-01-20 12:59:52,641 ERROR root [main] - #### Failure at the method:  selectByVisibleText() of DropDown class
+2020-01-20 12:59:52,647 ERROR root [main] - Failed to select the value for first drop down com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: #### Failure at the method:  selectByVisibleText() of DropDown class.org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Eclipse
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'FINLHYDAI452039', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+2020-01-20 12:59:52,688  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:52,944  INFO root [main] - Element element: ddThird loaded
+2020-01-20 12:59:53,080  INFO root [main] - WebDriver clicking on: 'id: dropdowm-menu-3]] '
+2020-01-20 12:59:53,080  INFO root [main] - DropDown Element: ddThird => CSS is Selected
+2020-01-20 12:59:53,080  INFO root [main] - Selected the value for third drop down
+2020-01-20 12:59:53,115  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:53,252  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-01-20 12:59:53,355  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-01-20 12:59:53,463  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-01-20 12:59:53,493  INFO root [main] - Page loaded successfully
+2020-01-20 12:59:53,728  INFO root [main] - Element element: ddThird loaded
+2020-01-20 12:59:53,898  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.DropdownCheckboxesRadioButtonsPage.ddThird'
+2020-01-20 12:59:53,898  INFO root [main] - Selected the value for Green Radio Button
+2020-01-20 12:59:56,631  INFO root [main] - TestCase with Id:TC11574 is updated successfully in Rally
+2020-01-20 12:59:58,688  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-01-20 15:16:31,645  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-20 15:16:32,092  INFO root [main] - Reading the Configuration file
+2020-01-20 15:16:32,928  INFO root [main] - Completed the reading of the Configuration file
+2020-01-20 15:16:34,573  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-20 15:16:43,859  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-20 15:16:43,912  INFO root [main] - Started Chrome Browser successfully.
+2020-01-20 15:16:45,053  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-20 15:16:45,053  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-20 15:16:45,054  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-20 15:16:51,668  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-20 15:16:54,297  INFO root [main] - Page loaded successfully
+2020-01-20 15:16:55,152  INFO root [main] - Element element: lnkLoginPortal loaded
+2020-01-20 15:16:55,417  INFO root [main] - Clicked on Login Portal Link
+2020-01-20 15:16:55,901  INFO root [main] - Page loaded successfully
+2020-01-20 15:16:57,963  INFO root [main] - Page loaded successfully
+2020-01-20 15:16:58,682  INFO root [main] - Element element: btnUserName loaded
+2020-01-20 15:16:59,426  INFO root [main] - TextField element: btnUserName => TestFactory set text successfully
+2020-01-20 15:16:59,426  INFO root [main] - Entered the user name
+2020-01-20 15:16:59,472  INFO root [main] - Page loaded successfully
+2020-01-20 15:16:59,995  INFO root [main] - Element element: btnPassword loaded
+2020-01-20 15:17:00,914  INFO root [main] - TextField element: btnPassword => TestFactoryPassword set text successfully
+2020-01-20 15:17:00,914  INFO root [main] - Entered the password
+2020-01-20 15:17:00,954  INFO root [main] - Page loaded successfully
+2020-01-20 15:17:01,373  INFO root [main] - Element element: btnLogin loaded
+2020-01-20 15:17:01,652  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.LoginPage.btnLogin'
+2020-01-20 15:17:01,652  INFO root [main] - Button element: btnLogin clicked
+2020-01-20 15:17:01,652  INFO root [main] - Clicked on the login button 
+2020-01-20 15:17:01,822  INFO root [main] - *** Verified: Alert message appears  = validation failed' ***
+2020-01-20 15:17:06,032  INFO root [main] - TestCase with Id:TC11573 is updated successfully in Rally
+2020-01-20 15:17:11,681  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-01-20 15:17:11,686  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-01-20 15:17:11,695  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-01-20 15:17:14,931  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-01-20 15:17:14,936  INFO root [main] - Started Chrome Browser successfully.
+2020-01-20 15:17:15,948  INFO root [main] - http://webdriveruniversity.com/index.html
+2020-01-20 15:17:15,948  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-01-20 15:17:15,948  INFO root [main] - WebDriver navigating to:'http://webdriveruniversity.com/index.html'
+2020-01-20 15:17:21,600  INFO root [main] - Navigated to http://webdriveruniversity.com/index.html link
+2020-01-20 15:17:23,798  INFO root [main] - Page loaded successfully
+2020-01-20 15:17:24,230  INFO root [main] - Element element: lnkDropDownRadioCheckBox loaded
+2020-01-20 15:17:24,546  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.HomePage.lnkDropDownRadioCheckBox'
+2020-01-20 15:17:24,546  INFO root [main] - HyperLink element: lnkDropDownRadioCheckBox clicked
+2020-01-20 15:17:24,546  INFO root [main] - Clicked on Drop Down, Radio and Check boxes Link
+2020-01-20 15:17:24,746  INFO root [main] - Page loaded successfully
+2020-01-20 15:17:26,771  INFO root [main] - Page loaded successfully
+2020-01-20 15:17:27,314  INFO root [main] - Element element: ddFirst loaded
+2020-01-20 15:17:27,395  INFO root [main] - DropDown Element: ddFirst => JAVA is Selected
+2020-01-20 15:17:27,395  INFO root [main] - Selected the value for first drop down
+2020-01-20 15:17:27,423  INFO root [main] - Page loaded successfully
+2020-01-20 15:17:27,921  INFO root [main] - Element element: ddFirst loaded
+2020-01-20 15:17:33,070 ERROR root [main] - #### Failure at the method:  selectByVisibleText() of DropDown class
+2020-01-20 15:17:33,075 ERROR root [main] - Failed to select the value for first drop down com.JavaSelenium.TestFactory.core.exception.FrameworkExceptions: #### Failure at the method:  selectByVisibleText() of DropDown class.org.openqa.selenium.NoSuchElementException: Cannot locate element with text: Eclipse
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'FINLHYDAI452039', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+2020-01-20 15:17:33,170  INFO root [main] - Page loaded successfully
+2020-01-20 15:17:33,699  INFO root [main] - Element element: ddThird loaded
+2020-01-20 15:17:33,861  INFO root [main] - WebDriver clicking on: 'id: dropdowm-menu-3]] '
+2020-01-20 15:17:33,861  INFO root [main] - DropDown Element: ddThird => CSS is Selected
+2020-01-20 15:17:33,862  INFO root [main] - Selected the value for third drop down
+2020-01-20 15:17:33,908  INFO root [main] - Page loaded successfully
+2020-01-20 15:17:34,188  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-01-20 15:17:34,344  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-01-20 15:17:34,583  INFO root [main] - WebDriver clicking on: 'xpath: //input[@type='checkbox']]'
+2020-01-20 15:17:34,633  INFO root [main] - Page loaded successfully
+2020-01-20 15:17:35,387  INFO root [main] - Element element: ddThird loaded
+2020-01-20 15:17:35,631  INFO root [main] - WebDriver clicking on: 'com.JavaSelenium.TestFactory.TestFactory.DropdownCheckboxesRadioButtonsPage.ddThird'
+2020-01-20 15:17:35,632  INFO root [main] - Selected the value for Green Radio Button
+2020-01-20 15:17:38,222  INFO root [main] - TestCase with Id:TC11574 is updated successfully in Rally
+2020-01-20 15:17:41,206  INFO root [main] - ================================ TEST METHOD ENDS  =========================================

@@ -1,0 +1,62 @@
+[ {
+  "buildOrder" : 76,
+  "reportUrl" : "nulljob/TestFactory/76/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 2,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 74,
+  "reportUrl" : "nulljob/TestFactory/74/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 2,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 73,
+  "reportUrl" : "nulljob/TestFactory/73/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 2,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 68,
+  "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/68/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 2,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 67,
+  "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/67/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 4,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 66,
+  "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/66/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 2,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 65,
+  "reportUrl" : "http://finlhydai452039:8080/job/NG%20E-CAT%20Sanity%20Execution/65/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 2,
+    "retry" : 0
+  }
+}, {
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+} ]

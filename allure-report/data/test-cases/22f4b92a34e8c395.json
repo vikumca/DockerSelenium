@@ -1,0 +1,169 @@
+{
+  "uid" : "22f4b92a34e8c395",
+  "name" : "loginTest[org.testng.TestRunner@15c8b75c]",
+  "fullName" : "com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest.loginTest",
+  "historyId" : "39abfcb71d63d6774ded7de4865ced6",
+  "time" : {
+    "start" : 1579513643664,
+    "stop" : 1579513655954,
+    "duration" : 12290
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Navigated to Dropdown-Checkboxes-RadioButtons Page",
+      "time" : {
+        "start" : 1579513644551,
+        "stop" : 1579513644551,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Selected the value of first Drop Down",
+      "time" : {
+        "start" : 1579513647400,
+        "stop" : 1579513647400,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Selected the value of second Drop Down",
+      "time" : {
+        "start" : 1579513653078,
+        "stop" : 1579513653078,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Selected the value of third Drop Down",
+      "time" : {
+        "start" : 1579513653863,
+        "stop" : 1579513653863,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Selected all the checkboxes",
+      "time" : {
+        "start" : 1579513654584,
+        "stop" : 1579513654584,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Selected Green Radio Button",
+      "time" : {
+        "start" : 1579513655633,
+        "stop" : 1579513655633,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "FINLHYDAI452039"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "Test Factory"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "thread",
+    "value" : "21628@FINLHYDAI452039.main(1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test Factory"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest"
+  }, {
+    "name" : "package",
+    "value" : "com.JavaSelenium.TestFactory.tests.DropDownRadioCheckBoxesTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22f4b92a34e8c395.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,154 @@
+{
+  "uid" : "33d8dc508504f530",
+  "name" : "loginTest[org.testng.TestRunner@15c8b75c]",
+  "fullName" : "com.JavaSelenium.TestFactory.tests.LoginTest.loginTest",
+  "historyId" : "dc145f535346d0b16ff5c76444636640",
+  "time" : {
+    "start" : 1579513614128,
+    "stop" : 1579513622430,
+    "duration" : 8302
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Navigated to Login Portal Page",
+      "time" : {
+        "start" : 1579513615489,
+        "stop" : 1579513615492,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Entered the user name",
+      "time" : {
+        "start" : 1579513619428,
+        "stop" : 1579513619428,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Entered the password",
+      "time" : {
+        "start" : 1579513620916,
+        "stop" : 1579513620916,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Clicked on the Login button",
+      "time" : {
+        "start" : 1579513621654,
+        "stop" : 1579513621654,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Verified: Alert message appears  = validation failed",
+      "time" : {
+        "start" : 1579513621822,
+        "stop" : 1579513621823,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "FINLHYDAI452039"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "com.JavaSelenium.TestFactory.tests.LoginTest"
+  }, {
+    "name" : "testGroup",
+    "value" : "Test Factory"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "testSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "thread",
+    "value" : "21628@FINLHYDAI452039.main(1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test Factory"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.JavaSelenium.TestFactory.tests.LoginTest"
+  }, {
+    "name" : "package",
+    "value" : "com.JavaSelenium.TestFactory.tests.LoginTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33d8dc508504f530.json",
+  "parameterValues" : [ ]
+}
